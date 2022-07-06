@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(7, 143, 255);
+    font: normal 20px consolas;
+}
+header{
+    text-align: center;
+    color: aliceblue;
+}
+section{
+    width: 600px;/*Define a largura das coisas*/
+    background-color: aliceblue;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.315);
+    border-radius: 10px;/*Arredonda as bordas*/
+    margin: 0 auto;
+    /*align-items: center;*//*Centralioza o que etsa dentro da section*/
+    justify-content: center;
+    padding: 10px;
+}
+div{
+    margin-left: 5px;
+    padding: 5px;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+}
